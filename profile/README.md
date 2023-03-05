@@ -2,7 +2,7 @@
 
 ## Empowering collaboration with open-source tooling
 
-Ww believe that new open-source machine learning, generative art, digital assets, and open source XR have the potential to transform the way people collaborate globally within creative industries. Our free tooling plans to empower both human and AI actors, allowing them to collaborate and communicate securely and effectively.
+We believe that new open-source machine learning, generative art, digital assets, and open source XR have the potential to transform the way people collaborate globally within creative industries. Our free tooling plans to empower both human and AI actors, allowing them to collaborate and communicate securely and effectively.
 
 Our approach is designed to mediate governance issues in a transparent and cryptographically verifiable way, creating a more trustworthy and accountable digital society. One of the key benefits of our technology is that it removes many of the traditional barriers to collaboration, such as accessibility, creativity, language barriers, safeguarding, and governance issues. This is essential for building a truly inclusive metaverse that is open to all.
 
