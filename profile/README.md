@@ -19,6 +19,10 @@ Contact us today to learn more:
 
 [Dr John O'Hare](mailto:flosservse@xrsystems.uk)
 
+[Nostr](https://snort.social/p/npub1hl8jp4rj7ra3gweredd787s2qsx5y9mtw8mnegnj76gjk8tz53fqdcraa9)
+
+[LinkedIn](https://www.linkedin.com/company/flossverse/?)
+
 [website](https://github.com/flossverse)
 
 [Follow us on Twitter](https://twitter.com/flossverse)
