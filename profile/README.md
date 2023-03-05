@@ -1,4 +1,4 @@
-We believe that new open source machine learning, ganerative art, digital assets, and XR have the potential to transform the way people collaborate, and work within creative industries globally.
+We believe that new open source machine learning, generative art, digital assets, and XR have the potential to transform the way people collaborate, and work, within creative industries globally.
 
 Our open-source tooling empowers both human and AI actors, allowing them to collaborate and communicate securely and effectively. Our approach is designed to mediate governance issues in a transparent and cryptographically verifiable way, creating a more trustworthy and accountable digital society.
 
