@@ -1,4 +1,5 @@
-# flossverse
+# flossverse 
+tooling that integrates #nostr #bitcoin #metaverse #lightning #fedimint #RGB
 
 ## Empowering collaboration with open-source tooling
 
