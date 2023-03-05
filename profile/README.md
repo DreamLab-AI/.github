@@ -9,7 +9,7 @@ Our approach is designed to mediate governance issues in a transparent and crypt
 
 Our focus on supported creativity and augmented intelligence is also critical to the success of the metaverse. We are using cutting-edge image generation ML techniques to create immersive spaces where global teams can collaborate and ideate, using verbal commands to create stylized scenes in real-time.
 
-Our ultimate goal is to build a better future by unlocking the full potential of the metaverse. We believe that the metaverse has the potential to create a more economically empowered and inclusive society, and we are committed to making this vision a reality. With StabilityAI, you can be part of this exciting journey and help shape the metaverse of the future.
+Our ultimate goal is to build a better future by unlocking the full potential of small team telecollaboration, with communities who have been excluded so far. We believe that the metaverse has the potential to create a more economically empowered and inclusive society, and we are committed to making this vision a reality. With StabilityAI, you can be part of this exciting journey and help shape the metaverse of the future.
 
 ## Read the book
 [in the draft repository](https://github.com/flossverse/product/blob/draft/Book/metaverseBTC.pdf)
