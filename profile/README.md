@@ -33,7 +33,7 @@ Our focus on supported creativity and augmented intelligence is also critical to
 
 Our ultimate goal is to build a better future by unlocking the full potential of small team telecollaboration, with communities who have been excluded so far. We believe that the metaverse has the potential to create a more economically empowered and inclusive society, and we are committed to making this vision a reality. With StabilityAI, you can be part of this exciting journey and help shape the metaverse of the future.
 
-## Read the book
+## Read the book (450 pages, updated daily)
 [in the draft repository](https://github.com/flossverse/product/blob/draft/Book/metaverseBTC.pdf)
 
 Become a part of the journey to build a better future with StabilityAI. Our open-source tooling empowers collaboration and unlocks the full potential of the metaverse. 
