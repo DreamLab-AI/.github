@@ -1,6 +1,28 @@
 # flossverse 
 tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint #RGB
 
+**A digital society of federated cheap servers connected with #nostr. All open & with it's own ruleset. Opt in. Money and objects can flow. 12 people to a room. The point is distributions and pausing before the word metaverse gives a permission structure to dystopia.**
+
+🟩 Open source collaborative space
+🟩 Headset VR integration
+🟧 WebGL interface
+🟩 Minting digital assets
+🟧 Digital asset integration and management
+🟩 Large language model MVP
+🟧 Large language model API integration
+🟥 Large language model voice to voice interface
+🟩 Stable diffusion image creation MVP
+🟧 Stable diffusion image creation API
+🟧 Nostr social media integration
+🟧 Nostr identity management
+🟧 Nostr machine to machine finacially enabled bots (ubiquitous federating agents)
+🟧 Nostr human programmable semi autonomous economic actors
+🟩 Bitcoin / Lightning / stablecoin stack
+🟥 Bitcoin / Lightning / stablecoin integration
+🟧 Collaborative virtual production MVP
+🟥 Collaborative virtual production integration
+🟥 3D asset generation with ML
+
 ## Empowering collaboration with open-source tooling
 
 We believe that new open-source machine learning, generative art, digital assets, and open source XR have the potential to transform the way people collaborate globally within creative industries. Our free tooling plans to empower both human and AI actors, allowing them to collaborate and communicate securely and effectively.
