@@ -6,7 +6,7 @@ tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint 
 🟩 Open source collaborative space
 🟩 Headset VR integration
 🟧 WebGL interface
-🟩 Minting digital assets
+🟩 Minting digital assets (Ordinal then RGB)
 🟧 Digital asset integration and management
 🟩 Large language model MVP
 🟧 Large language model API integration
