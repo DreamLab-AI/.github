@@ -9,8 +9,8 @@ tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint 
 🟩 Minting digital assets (Ordinal then RGB)
 🟧 Digital asset integration and management
 🟩 Large language model MVP
-🟧 Large language model API integration
-🟥 Large language model voice to voice interface
+🟩 Large language model API integration
+🟩 Large language model voice to voice interface
 🟩 Stable diffusion image creation MVP
 🟧 Stable diffusion image creation API
 🟧 Nostr social media integration
