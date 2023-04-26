@@ -3,7 +3,7 @@ tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint 
 
 **A digital society of federated cheap servers connected with #nostr. All open & with it's own ruleset. Opt in. Money and objects can flow. 12 people to a room. The point is distribution, and pausing before the word 'metaverse' gives a permission structure to dystopia.**
 
-# what's working, what's nearly working, and what's planned
+## what's working, what's nearly working, and what's planned
 🟩 Open source collaborative space
 🟩 Headset VR integration
 🟧 WebGL interface
