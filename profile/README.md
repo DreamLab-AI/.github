@@ -6,18 +6,20 @@ tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint 
 ## what's working, what's nearly working, and what's planned
 🟩 Open source collaborative space
 🟩 Headset VR integration
-🟧 WebGL interface
+🟨 WebGL interface
 🟩 Minting digital assets (Ordinal then RGB)
-🟧 Digital asset integration and management
+🟨 Digital asset integration and management
 🟩 Large language model MVP
 🟩 Large language model API integration
 🟩 Large language model voice to voice interface
 🟩 Stable diffusion image creation MVP
-🟧 Stable diffusion image creation API
-🟧 Nostr social media integration
-🟧 Nostr identity management
-🟧 Nostr machine to machine finacially enabled bots (ubiquitous federating agents)
-🟧 Nostr human programmable semi autonomous economic actors
+🟩 Stable diffusion image creation MVP
+🟨 AutoGPT voice to voice integration MVP
+🟨 Stable diffusion image creation API
+🟨 Nostr social media integration
+🟨 Nostr identity management
+🟨 Nostr machine to machine finacially enabled bots (ubiquitous federating agents)
+🟨 Nostr human programmable semi autonomous economic actors
 🟩 Bitcoin / Lightning / stablecoin stack
 🟥 Bitcoin / Lightning / stablecoin integration
 🟧 Collaborative virtual production MVP
