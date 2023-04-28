@@ -22,7 +22,7 @@ tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint 
 🟨 Nostr human programmable semi autonomous economic actors
 🟩 Bitcoin / Lightning / stablecoin stack
 🟥 Bitcoin / Lightning / stablecoin integration
-🟧 Collaborative virtual production MVP
+🟨 Collaborative virtual production MVP
 🟥 Collaborative virtual production integration
 🟥 3D asset generation with ML
 
