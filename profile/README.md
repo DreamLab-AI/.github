@@ -1,5 +1,5 @@
 # flossverse 
-tooling that integrates #nostr #bitcoin #telecollaboration #lightning #fedimint #RGB
+tooling that integrates #nostr #bitcoin #telecollaboration #lightning #DIBA #RGB
 
 **A digital society of federated cheap collaboration spaces, connected with #nostr, and leveraging ML and AI. Opt in. Community driven. Accessible. Money and objects can flow. 12 people to a room solving real problems, not a dystopian social metaverse.**
 
