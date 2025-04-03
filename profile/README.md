@@ -1,88 +1,52 @@
-# flossverse 
-tooling that integrates #nostr #bitcoin #telecollaboration #lightning #DIBA #RGB
+# Dr. John O'Hare
 
-**A digital society of federated cheap collaboration spaces, connected with #nostr, and leveraging ML and AI. Opt in. Community driven. Accessible. Money and objects can flow. 12 people to a room solving real problems, not a dystopian social metaverse.**
+**AI Consultant | Spatial Computing & Decentralised Systems Researcher | Founder @ DreamLab AI Consulting Ltd. | Associate Director R&D @ DreamLab (MediaCityUK)**
 
-## what's working, what's nearly working, and what's planned
-🟩 Open source collaborative space
-🟩 Headset VR integration
-🟨 WebGL interface
-🟩 Minting digital assets (Ordinal then RGB)
-🟨 Digital asset integration and management
-🟩 Large language model MVP
-🟩 Large language model API integration
-🟩 Large language model voice to voice interface
-🟩 Stable diffusion image creation MVP
-🟩 Stable diffusion image creation MVP
-🟨 AutoGPT voice to voice integration MVP
-🟨 Stable diffusion image creation API
-🟨 Nostr social media integration
-🟨 Nostr identity management
-🟨 Nostr machine to machine finacially enabled bots (ubiquitous federating agents)
-🟨 Nostr human programmable semi autonomous economic actors
-🟩 Bitcoin / Lightning / stablecoin stack
-🟥 Bitcoin / Lightning / stablecoin integration
-🟨 Collaborative virtual production MVP
-🟥 Collaborative virtual production integration
-🟥 3D asset generation with ML
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jjohare-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jjohare/) [![GitHub](https://img.shields.io/badge/GitHub-jjohare-lightgrey?style=flat&logo=github)](https://github.com/jjohare) [![Nostr](https://img.shields.io/badge/Nostr-npub…aa9-purple?style=flat)](https://snort.social/p/npub1hl8jp4rj7ra3gweredd787s2qsx5y9mtw8mnegnj76gjk8tz53fqdcraa9) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5209--7754-brightgreen?style=flat&logo=orcid)](https://orcid.org/0000-0001-5209-7754)
 
-## Empowering collaboration with open-source tooling
+---
 
-We believe that new open-source machine learning, generative AI, digital assets, and open source XR have the potential to transform the way people collaborate globally within creative industries. Our free tooling plans to empower both human and AI actors, allowing them to collaborate and communicate securely and effectively.
+I'm the founder of **DreamLab AI Consulting Ltd.**, providing specialist consultancy and R&D services focused on the strategic implementation of cutting-edge technologies. My core areas of expertise include:
 
-Our approach is designed to mediate governance issues in a transparent and cryptographically verifiable way, creating a more trustworthy and accountable digital society. One of the key benefits of our technology is that it removes many of the traditional barriers to collaboration, such as accessibility, creativity, language barriers, safeguarding, and governance issues. This is essential for building truly inclusive collaborative that are open to all.
+*   🤖 **Generative AI & Agentic Systems:** Developing and integrating Large Language Models (LLMs), diffusion models (like Stable Diffusion via ComfyUI), and designing complex AI workflows and agentic architectures. Expertise in AI Ops and product development (Patents Pending).
+*   🌐 **Spatial Computing & Immersive Experiences:** Leveraging 25+ years in mixed reality, telepresence (PhD focus), virtual production, and human-computer interaction. Designing and building high-performance visualisation platforms and collaborative environments (e.g., CAVE systems, large screen XR).
+*   🔗 **Decentralised Technologies & Protocols:** Researching and applying technologies like Bitcoin, Lightning Network, and Nostr for secure, transparent, and equitable access, governance, micro-transactions, and novel economic models within digital spaces.
+*   🧠 **Knowledge Management & GraphRAG:** Developing advanced systems like VisionFlow, transforming knowledge bases (e.g., Logseq) into interactive 3D visualisations using WebXR, GPU acceleration, and AI-enhanced analysis (Graph RAG).
+*   🔧 **Open Source Development:** Committed to contributing open-source tools and research outputs. You can find relevant work primarily across my personal repositories and the [DreamLab-AI GitHub Organisation](https://github.com/DreamLab-AI). <!-- Adjust org link if needed -->
 
-Our focus on supported creativity and augmented intelligence is also critical to the success of the global collaborative working. We are using cutting-edge image generation ML techniques to create immersive spaces where global teams can collaborate and ideate, using verbal commands to create stylized scenes in real-time.
+DreamLab AI Consulting Ltd. is an integral part of the broader **DreamLab collective** based at MediaCityUK, Manchester. As Associate Director R&D within this group of ~25 leading creative technologists, I help steer engineering management and innovation, particularly focusing on AI-assisted workflows, immersive technology, access, governance, and ethics. We are an HP AI Lighthouse Partner.
 
-Our ultimate goal is to build a better future by unlocking the full potential of small team telecollaboration, with communities who have been excluded so far. We believe that these tools have the potential to create a more economically empowered and inclusive society, and we are committed to making this vision a reality. 
+---
 
-## Read the book (507 pages. It's incomplete but I don't plan to update it much more now. I have learnt what I needed. If it's less than around that size try downloading again)
-[in the draft repository](https://github.com/jjohare/DigiSocConvergence/blob/main/Book/DigiSocConvergence.pdf)
+## Research Philosophy & Focus
 
-Become a part of the journey to build a better future with StabilityAI. Our open-source tooling empowers collaboration and unlocks the full potential of the global digital society. 
+My work is driven by the convergence of AI, spatial computing, and decentralised systems. I am particularly interested in:
 
-Contact us today to learn more: 
+*   **Augmented Intelligence:** Using AI not just to automate, but to enhance human creativity, collaboration, and decision-making.
+*   **Equity of Access:** Exploring how open protocols and decentralised infrastructure can provide more equitable access to advanced digital tools and economic opportunities, particularly for underserved global communities.
+*   **Convergence & Disruption:** Analysing how these technologies are merging and fundamentally reshaping industries, collaboration patterns, and digital society. I have a long-standing interest in Bitcoin as a non-trivial disruptive force.
+*   **Trust & Governance in Digital Spaces:** Designing systems that are transparent, verifiable, and support robust governance models for both human and AI actors.
 
-[Dr John O'Hare](mailto:flosservse@xrsystems.uk)
+I believe in building practical, impactful solutions grounded in deep technical understanding and a commitment to open collaboration.
 
-[Nostr](https://snort.social/p/npub1hl8jp4rj7ra3gweredd787s2qsx5y9mtw8mnegnj76gjk8tz53fqdcraa9)
+---
 
-[LinkedIn](https://www.linkedin.com/company/flossverse/?)
+## Technical Proficiencies
 
-[website](https://github.com/flossverse)
+*   **Core Areas:** AI/ML (GenAI, LLMs, Agentics), Immersive XR (Unity, Unreal, WebXR, MiddleVR, NeRF), Decentralised Systems (Bitcoin, Lightning, Nostr), System Design & Integration, Cloud/vGPU, High-End Visualisation (LED/Projection), Tracking Systems (MoSys, Vicon).
+*   **Programming & Tools:** Python, Vibe Coding, Linux/OSX/Windows Server, Networking, Cyber Security fundamentals, 3D Modelling/Printing, Data Analytics, PRINCE2 Agile Practitioner.
+*   **Management:** Thought Leadership, Engineering Management (leading teams up to 15), Product Design & Development, Startup Experience, Stakeholder Management, Research Strategy.
 
-[Follow us on Twitter](https://twitter.com/flossverse)
+---
 
-# Summary TL;DR
-## Introduction
-- There may be an inflection point in the organisational topology of the internet, because of trust abuses by the incumbent providers. This moment has been calling itself Web3, but the moniker is fraught with problems, and somewhat meaningless. The drivers are real.
-- `The Metaverse' is coming, in some form, at some point. Everyone is positioning in case it's "soon". It's not at all clear what it is, or if people want it, but the best of the emergent narrative looks like the older field of "digital society" and that obviously should not be dismissed lightly.
-- Large scale `social' & immersive metaverse is suffering poor adoption, failing as it has in the past. It's likely that the market need has been overstated. More advanced and popular (closed) games based solutions do not serve societal or business needs.
+## Let's Connect
 
-## Current contenders in the Metaverse
-- The closest contenders at this time are Roblox for social and play, VRChat for more serious users, and Nvidia Omniverse for high end business to business metaverse.
-- From a business perspective metaverse is the worst of the remote collaboration tool-kits, and undermines flow, productivity, and interpersonal trust. Metaverse is probably technology for technologies sake at this time, but the investment is real. 
+I'm always open to discussing innovative projects, research collaborations, or consultancy opportunities.
 
-## Digital Society
-- Digital society may be a more tangible and less hyped term to build around, and extends out into the more compelling spatial and augmented reality technologies, web, and digital money and trust.
-- Emerging markets, less developed nations, indeed much of the world is excluded from many of the tools that are taken for granted in `Western' digital society. They do not necessarily have the identification, banking rails, or compute power to engage fully. Our focus is on Africa and India.
+*   **Consultancy Enquiries:** [john@dreamlab.ai](mailto:john@dreamlab.ai) <!-- Or use john@xrsystems.uk if preferred -->
+*   **LinkedIn:** [linkedin.com/in/jjohare](https://www.linkedin.com/in/jjohare/)
+*   **GitHub:** [github.com/jjohare](https://github.com/jjohare)
+*   **Nostr:** `npub1hl8jp4rj7ra3gweredd787s2qsx5y9mtw8mnegnj76gjk8tz53fqdcraa9`
+*   **Explore my public notes & graph (Work in Progress):** [Link to your public Logseq/Obsidian graph if available]
 
-## Crypto and Blockchain
-- Uniting these attempts, with portable (transferable) "goods" across digital society likely requires a global ledger (blockchain), indeed this is the basis of the Web3 interpretation. Crypto is igniting imagination on this topic, and is seeing adoption both inside out outside of the metaverse context. There are other potential options available soon.
-- Crypto is a nightmare; rife with scams, poor technology choices, limited life, and incorrect assumptions. The only thing blockchain / crypto can do well is "money like networks", which is a cornerstone of human interaction, and the killer application. We strongly believe that Bitcoin is the signal, and crypto is the noise.
-- Representations of dollars and pounds can ride securely on top of such networks as stablecoins, and this is getting easier to integrate, though there are risks. This has the potential to open up global collaborative working practices, inclusive of emerging markets.
-
-## Open Digital Society
-- Industry has noted the risk, and failures of Meta across both metaverse, and digital currency, and have latched onto "open metaverse" as a narrative, to de-risk their interest. The current open metaverse is muddy and confused. 
-- A truth seems to have been missed; that open metaverse should mean open source metaverse. There are some options, but they are under developed. We would like to contribute to this by applying our decades of telecollaboration research. 
-- The UK seems to be endorsing significant controls and restrictions on internet usage including metaverse applications. This compliance overhead will price small companies out of large scale social experiences. Company walled gardens are less impacted (as per the slack service model), and this is an opportunity if tied to real business use cases.
-
-## Augmented Intelligence
-- AI & machine learning and especially generative art is further blurring these boundaries. A better term for AI/ML is supported creativity and/or augmented intelligence. While current models such as GPT3.5 and LAION based generative systems are already causing a global stir, and large language models are already forcing global debate about general AI.
-- Trust, accessibility, governance, and safeguarding, are hard problems, and made more complex by unrecorded social flow in immersive social VR.
-- The challenge is to build a topologically flat, inclusive, permissionless, federated, and open metaverse, with economically empowered ML and AI actors, which can mediate governance issues, transparently, according to well constructed custom schemas, between cryptographically verifiable economic users (human or AI).
-- New open source [supported creativity, augmented intelligence] tooling from Stability and Llama potentially removes many of the problems with accessibility, creativity, language barriers, safeguarding, and governance. This is a huge, complex, and fast moving area, but tremendously exciting. 
-- Using new image generation ML it may be possible to build new kind of collaborative global networks for creative industries, ideating in simplistic immersive spaces while instantly creating scenes which can be stylised using verbal commands in real-time. This may open up and enfranchise fresh ideas from a wider cultural pool.
-- Such teams could be far more ad-hoc by experimenting with the designs outlined in this book. This kind of genuine digital society use case is something sorely lacking in large scale attempts such as Meta Horizons. It need not be complex or large scale, but it must be secure, trusted, and task appropriate. We think we can deliver this and conversations with the industry suggest that there is excitement and cautious appetite.
-
-
+*(Previously @ University of Salford, PathwayXR, Flossverse, Neocadia)*
