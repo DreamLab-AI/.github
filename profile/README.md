@@ -47,6 +47,6 @@ I'm always open to discussing innovative projects, research collaborations, or c
 *   **LinkedIn:** [linkedin.com/in/jjohare](https://www.linkedin.com/in/jjohare/)
 *   **GitHub:** [github.com/jjohare](https://github.com/jjohare)
 *   **Nostr:** `npub1hl8jp4rj7ra3gweredd787s2qsx5y9mtw8mnegnj76gjk8tz53fqdcraa9`
-*   **Explore my public notes & graph (Work in Progress):** [Link to your public Logseq/Obsidian graph if available]
+*   **Explore my public notes & graph (Work in Progress):** [Logseq research pages](https://narrativegoldmine.com//#/graph)
 
 *(Previously @ University of Salford, PathwayXR, Flossverse, Neocadia)*
