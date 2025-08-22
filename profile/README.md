@@ -43,7 +43,7 @@ I believe in building practical, impactful solutions grounded in deep technical 
 
 I'm always open to discussing innovative projects, research collaborations, or consultancy opportunities.
 
-*   **Consultancy Enquiries:** [john@dreamlab.ai](mailto:john@thedreamlab.uk) <!-- Or use john@xrsystems.uk if preferred -->
+*   **Consultancy Enquiries:** [john@thedreamlab.uk](mailto:john@thedreamlab.uk) <!-- Or use john@xrsystems.uk if preferred -->
 *   **LinkedIn:** [linkedin.com/in/jjohare](https://www.linkedin.com/in/jjohare/)
 *   **GitHub:** [github.com/jjohare](https://github.com/jjohare)
 *   **Nostr:** `npub1hl8jp4rj7ra3gweredd787s2qsx5y9mtw8mnegnj76gjk8tz53fqdcraa9`
